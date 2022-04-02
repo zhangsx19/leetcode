@@ -23,6 +23,8 @@
         "xutility": "cpp",
         "stack": "cpp",
         "vector": "cpp",
-        "algorithm": "cpp"
+        "algorithm": "cpp",
+        "xstddef": "cpp",
+        "iostream": "cpp"
     }
 }
