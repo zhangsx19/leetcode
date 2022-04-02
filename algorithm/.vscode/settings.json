@@ -21,6 +21,8 @@
         "xmemory0": "cpp",
         "xstring": "cpp",
         "xutility": "cpp",
-        "stack": "cpp"
+        "stack": "cpp",
+        "vector": "cpp",
+        "algorithm": "cpp"
     }
 }
