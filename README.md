@@ -18,4 +18,4 @@ programming language：C++
 | #    | Title                                                        | Solution                                                     | Difficulty                                                   |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1    |[1. Two Sum](https://leetcode-cn.com/problems/two-sum/)| [1. Two Sum](https://github.com/zhangsx19/leetcode/blob/master/algorithm/01_2Sum.cpp)|Easy|
-| 2    |[15. 3Sum](https://leetcode-cn.com/problems/3sum/)| [15. 3Sum](https://github.com/zhangsx19/leetcode/blob/master/algorithm/02_addTwoNumbers.cpp)|Medium|
+| 2    |[15. 3Sum](https://leetcode-cn.com/problems/3sum/)| [15. 3Sum](https://github.com/zhangsx19/leetcode/blob/master/algorithm/15_3Sum.cpp)|Medium|
