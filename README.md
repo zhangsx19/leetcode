@@ -12,4 +12,10 @@ programming language：C++
 链表
 | #    | Title                                                        | Solution                                                     | Difficulty                                                   |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1    |[2. Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers/)| [2. Add Two Numbers](https://github.com/zhangsx19/leetcode/blob/master/offer/stack%20and%20queue/stack2queue.cpp)|Easy|
+| 1    |[2. Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers/)| [2. Add Two Numbers](https://github.com/zhangsx19/leetcode/blob/master/algorithm/02_addTwoNumbers.cpp)|Medium|
+
+排序
+| #    | Title                                                        | Solution                                                     | Difficulty                                                   |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 1    |[1. Two Sum](https://leetcode-cn.com/problems/two-sum/)| [1. Two Sum](https://github.com/zhangsx19/leetcode/blob/master/algorithm/02_addTwoNumbers.cpp)|Easy|
+| 2    |[15. 3Sum](https://leetcode-cn.com/problems/3sum/)| [15. 3Sum](https://github.com/zhangsx19/leetcode/blob/master/algorithm/02_addTwoNumbers.cpp)|Medium|
