@@ -10,3 +10,6 @@ programming language：C++
 | 2    |[30. 包含min函数的栈](https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof/)| [30. 包含min函数的栈](https://github.com/zhangsx19/leetcode/blob/master/offer/stack%20and%20queue/MinStack.cpp)|Easy|
 
 链表
+| #    | Title                                                        | Solution                                                     | Difficulty                                                   |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 1    |[2. Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers/)| [2. Add Two Numbers](https://github.com/zhangsx19/leetcode/blob/master/offer/stack%20and%20queue/stack2queue.cpp)|Easy|
