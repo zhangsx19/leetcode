@@ -12,12 +12,12 @@ programming language：C++
 链表
 | #    | Title                                                        | Solution                                                     | Difficulty                                                   |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1    |[2. Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers/)| [2. Add Two Numbers](https://github.com/zhangsx19/leetcode/blob/master/algorithm/02_addTwoNumbers.cpp)|Medium|
+| 1    |[2. Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers/)| [2. Add Two Numbers](https://github.com/zhangsx19/leetcode/blob/master/algorithm/2.两数相加.cpp)|Medium|
 
 排序
 | #    | Title                                                        | Solution                                                     | Difficulty                                                   |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1    |[1. Two Sum](https://leetcode-cn.com/problems/two-sum/)| [1. Two Sum](https://github.com/zhangsx19/leetcode/blob/master/algorithm/01_2Sum.cpp)|Easy|
-| 2    |[15. 3Sum](https://leetcode-cn.com/problems/3sum/)| [15. 3Sum](https://github.com/zhangsx19/leetcode/blob/master/algorithm/15_3Sum.cpp)|Medium|
-| 3    |[16. 3SumClosest](https://leetcode-cn.com/problems/3sum-closest/)| [16. 3SumClosest](https://github.com/zhangsx19/leetcode/blob/master/algorithm/16_3SumClosest.cpp)|Medium|
-| 4    |[18. 4Sum](https://leetcode-cn.com/problems/4sum/)| [18. 4Sum](https://github.com/zhangsx19/leetcode/blob/master/algorithm/18_4Sum.cpp)|Medium|
+| 1    |[1. Two Sum](https://leetcode-cn.com/problems/two-sum/)| [1. Two Sum](https://github.com/zhangsx19/leetcode/blob/master/algorithm/1.两数之和.cpp)|Easy|
+| 2    |[15. 3Sum](https://leetcode-cn.com/problems/3sum/)| [15. 3Sum](https://github.com/zhangsx19/leetcode/blob/master/algorithm/15.三数之和.cpp)|Medium|
+| 3    |[16. 3SumClosest](https://leetcode-cn.com/problems/3sum-closest/)| [16. 3SumClosest](https://github.com/zhangsx19/leetcode/blob/master/algorithm/16.最接近的三数之和.cpp)|Medium|
+| 4    |[18. 4Sum](https://leetcode-cn.com/problems/4sum/)| [18. 4Sum](https://github.com/zhangsx19/leetcode/blob/master/algorithm/18.四数之和.cpp)|Medium|
