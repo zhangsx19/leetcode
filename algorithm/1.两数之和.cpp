@@ -1,8 +1,10 @@
-#include <iostream>
-#include <vector>
-#include <algorithm>
-#include <iterator>
-using namespace std;
+/*
+ * @lc app=leetcode.cn id=1 lang=cpp
+ *
+ * [1] 两数之和
+ */
+
+// @lc code=start
 //排序+双指针
 class Solution {
 public:
@@ -43,3 +45,5 @@ public:
             
     }
 };
+// @lc code=end
+

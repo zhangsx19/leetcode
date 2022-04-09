@@ -1,7 +1,10 @@
-#include <iostream>
-#include <vector>
-#include <algorithm>
-using namespace std;
+/*
+ * @lc app=leetcode.cn id=15 lang=cpp
+ *
+ * [15] 三数之和
+ */
+
+// @lc code=start
 //排序 + 双指针
 /*时间复杂度：O(n^2),数组排序O(NlogN)，遍历i O(n)，双指针遍历 O(n)，总体 O(NlogN)+O(n)∗O(n)=O(n^2) 
 空间复杂度：O(1)*/
@@ -67,3 +70,5 @@ public:
         return ans;
     }
 };
+// @lc code=end
+

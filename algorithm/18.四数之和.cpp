@@ -1,10 +1,10 @@
-#include <iostream>
-#include <vector>
-#include <algorithm>
-using namespace std;
-//排序 + 双指针 + 求和溢出
-/*时间复杂度：O(n^2),数组排序O(NlogN)，遍历 O(n)，双指针遍历 O(n)，总体 O(NlogN)+O(n)∗O(n)*O(n)=O(n^3) 
-空间复杂度：O(1)*/
+/*
+ * @lc app=leetcode.cn id=18 lang=cpp
+ *
+ * [18] 四数之和
+ */
+
+// @lc code=start
 class Solution {
 public:
     vector<vector<int>> fourSum(vector<int>& nums, int target) {
@@ -67,19 +67,6 @@ public:
         return ans;
     }
 };
-int main(){
-    vector<int> nums = {1,-2,-5,-4,-3,3,3,5};
-    int target = -11;
-    Solution a;
-    vector<vector<int> > ans = a.fourSum(nums,target);
-    for (int i = 0; i < ans.size(); i++)
-    {
-        for (int j = 0; j < ans[i].size(); j++)
-        {
-            cout<<ans[i][j];
-        }
-        cout<<endl;
-    }
-    
-    return 0;
-}
+
+// @lc code=end
+
